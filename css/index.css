@@ -1,0 +1,19 @@
+.navbar-brand{
+    height: 100px;
+    width: 100px;
+
+}
+.nav navbar-nav navbar-right li:a{
+    font-size: 5rem;
+}
+#min_price{
+
+    background: #F68B1E;
+    border: solid 2px #F68B1E;
+    border-radius: 8px;
+    height: 7px;
+    width: 300px;
+    outline: none;
+    transition: background 300ms ease-in;
+    -webkit-appearance: none;
+    }

@@ -1,0 +1,30 @@
+#min_price{
+
+    background: #F68B1E;
+    border: solid 2px #F68B1E;
+    border-radius: 8px;
+    height: 7px;
+    width: 300px;
+    outline: none;
+    transition: background 300ms ease-in;
+    -webkit-appearance: none;
+    }
+img{
+    height: 100px;
+    width: 80px;
+}
+.card-img-top{
+    height: 270px;
+    width: 500px;
+}
+/* .product{
+    margin-left: 125px;
+} */
+.card{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#btn{
+    margin-left: 25px;
+    width: 200px;
+}
